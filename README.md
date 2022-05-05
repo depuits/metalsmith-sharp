@@ -1,5 +1,7 @@
 # metalsmith-sharp
 
+Version with sharp library locked at 0.27.2 for older cpu's https://github.com/lovell/sharp/issues/2723
+
 > A fully flexible [sharp](https://sharp.pixelplumbing.com/) implementation for [Metalsmith](http://www.metalsmith.io/)
 
 [![](https://img.shields.io/npm/v/metalsmith-sharp.svg)](https://www.npmjs.com/package/metalsmith-sharp)
